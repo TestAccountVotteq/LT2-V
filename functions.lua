@@ -1,3 +1,5 @@
+print("Request recieved!")
+
 local RunService = game:GetService("RunService")
 local gamePlayers = game:GetService("Players")
 local localUser = gamePlayers.LocalPlayer
