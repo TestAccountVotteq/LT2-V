@@ -8,8 +8,8 @@ local localCharacter = localUser.Character
 print("Loaded local values")
 
 local playerValues = {
-    walkSpeed = 16
-    jumpPwr = 60
+    walkSpeed = 16,
+    jumpPwr = 60,
     flySpeed = 80
 }
 
